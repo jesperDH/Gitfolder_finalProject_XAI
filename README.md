@@ -9,7 +9,8 @@ Final_project_XAI_jesper_de_Hart
 -- for the data::
 
 put data from kaggle page in project folder to run. or if on collab upload the csv file
-csv file of data is too large to commit to github, link to kaggle page can be found here:
+
+the csv file of data is too large to commit to github, link to kaggle page can be found here:
 https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification/data
 
 
